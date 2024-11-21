@@ -10,9 +10,15 @@
   display: flex;
   list-style: none;
   flex-direction: row;
+  text-decoration: none;
+  color: #000000;
   gap: 56px;
   width: 368px;
   height: 30px;
+}
+.header__list {
+  text-decoration: none;
+  color: #000000;
 }
 .header__button {
   display: flex;
