@@ -1,0 +1,91 @@
+.comentarios {
+  display: flex;
+  justify-content: center;
+  gap: 32px;
+}
+.comentarios1 {
+  width: 592px;
+  height: 390px;
+  border-radius: 16px;
+  background: #f8f5f2;
+}
+.comentario__title {
+  font-family: Koh Santepheap;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 57.6px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  display: flex;
+  justify-content: center;
+  margin-top: 120px;
+}
+.comentario1__image {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  margin: 32px 0 24px 40px;
+}
+.comentario1__nome {
+  font-family: Koh Santepheap;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 38.4px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  padding-left: 40px;
+}
+.comentario1__descricao {
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 38.4px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  padding-left: 40px;
+}
+.comentario1__estrelas {
+  width: 168px;
+  height: 24px;
+  padding-left: 40px;
+}
+.comentarios2 {
+  width: 592px;
+  height: 390px;
+  border-radius: 16px;
+  background: #f8f5f2;
+}
+.comentario2__image {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  margin: 32px 0 24px 40px;
+}
+.comentario2__nome {
+  font-family: Koh Santepheap;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 38.4px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  padding-left: 40px;
+}
+.comentario2__descricao {
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 38.4px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  padding-left: 40px;
+}
+.comentario2__estrelas {
+  width: 168px;
+  height: 24px;
+  padding-left: 40px;
+}

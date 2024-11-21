@@ -1,0 +1,149 @@
+.cardapio__title {
+  display: flex;
+  justify-content: center;
+  font-family: Koh Santepheap;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 57.6px;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  margin-top: 120px;
+}
+.pratos {
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  gap: 32px;
+  margin-top: 170px;
+}
+.prato1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #f8f5f2;
+  width: 384px;
+  height: 434px;
+  border-radius: 16px;
+}
+.prato1__image {
+  max-width: 300px;
+  max-height: 300px;
+  position: absolute;
+  bottom: -1000px;
+}
+.prato1__nome {
+  font-family: Koh Santepheap;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 40.63px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  padding: 120px 61px 0 61px;
+}
+.prato1__descricao {
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  padding-left: 42px;
+  padding-right: 42px;
+}
+.prato1__preso {
+  font-family: Koh Santepheap;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 40.63px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #ff0000;
+  padding-bottom: 40px;
+}
+.prato2 {
+  background: #f8f5f2;
+  width: 384px;
+  height: 434px;
+  border-radius: 16px;
+}
+.prato2__image {
+  max-width: 300px;
+  max-height: 300px;
+  position: absolute;
+  bottom: -1010px;
+  padding: 0 90px 0 90px;
+}
+.prato2__nome {
+  font-family: Koh Santepheap;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 40.63px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  padding: 120px 61px 0 61px;
+}
+.prato2__descricao {
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+.prato2__preso {
+  font-family: Koh Santepheap;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 40.63px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #ff0000;
+}
+.prato3 {
+  background: #f8f5f2;
+  width: 384px;
+  height: 434px;
+  border-radius: 16px;
+}
+.prato3__image {
+  max-width: 300px;
+  max-height: 300px;
+  position: absolute;
+  bottom: -960px;
+  padding: 0 30px 0 30px;
+}
+.prato3__nome {
+  font-family: Koh Santepheap;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 40.63px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  padding: 120px 61px 0 61px;
+}
+.prato3__descricao {
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+.prato3__preso {
+  font-family: Koh Santepheap;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 40.63px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #ff0000;
+}

@@ -1,0 +1,49 @@
+.content--segundo {
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+}
+.content--segundo__image {
+  width: 592px;
+  height: 500px;
+  border-radius: 16px;
+  margin-top: 120px;
+}
+.content--segundo__cartao {
+  display: flex;
+  flex-direction: column;
+  align-items: self-start;
+  width: 545px;
+  height: 292px;
+  margin-top: 213px;
+}
+.content--segundo__subtitulo {
+  font-family: Koh Santepheap;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 30.47px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #ff0000;
+}
+.content--segundo__title {
+  font-family: Koh Santepheap;
+  font-size: 48px;
+  font-weight: 400;
+  margin-top: 0px;
+  line-height: 57.6px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+.content--segundo__paragraph {
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 400;
+  margin-top: 24px;
+  line-height: 32px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}

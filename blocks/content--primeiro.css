@@ -1,0 +1,56 @@
+.content--primeiro {
+  display: flex;
+  justify-content: space-between;
+  gap: 200px;
+}
+.content--primeiro__cartao {
+  width: 545px;
+  height: 292px;
+  margin-left: 200px;
+
+  margin-top: 210px;
+}
+.content--primeiro__title {
+  font-family: Koh Santepheap;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 57.6px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+.content--primeiro__pragraph {
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 38.4px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+.content--primeiro__button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 229px;
+  height: 54px;
+  border-radius: 60px;
+  cursor: pointer;
+  background: #ff0000;
+  color: #fff;
+}
+.content--primeiro__button__text {
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+.content--primeiro__image {
+  width: 400px;
+  height: 535px;
+  margin-top: 89px;
+  margin-right: 200px;
+}
