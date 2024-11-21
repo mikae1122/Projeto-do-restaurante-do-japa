@@ -1,6 +1,6 @@
-@import url(../blocks/header.css);
-@import url(../blocks/content--primeiro.css);
-@import url(../blocks/content--segundo.css);
-@import url(../blocks/cardapio.css);
-@import url(../blocks/comentarios.css);
+@import url(./blocks/header.css);
+@import url(./blocks/content--primeiro.css);
+@import url(./blocks/content--segundo.css);
+@import url(./blocks/cardapio.css);
+@import url(./blocks/comentarios.css);
 @import url(../blocks/footer.css);
