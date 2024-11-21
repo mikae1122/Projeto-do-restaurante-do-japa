@@ -6,19 +6,20 @@
   width: 154px;
   height: 41px;
 }
+.header__nav {
+  text-decoration: none;
+}
 .header__nav__list {
   display: flex;
   list-style: none;
   flex-direction: row;
-  text-decoration: none;
-  color: #000000;
   gap: 56px;
   width: 368px;
   height: 30px;
 }
-.header__list {
+.header__nav__list a {
   text-decoration: none;
-  color: #000000;
+  color: inherit;
 }
 .header__button {
   display: flex;
